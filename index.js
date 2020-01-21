@@ -1,5 +1,6 @@
 /**
  * @format
+ * Tanawat Mussayamat
  */
 
 import {AppRegistry} from 'react-native';
